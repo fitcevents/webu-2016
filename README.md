@@ -1,2 +1,6 @@
-# webu-2016
-WebU 2016 - Front-end Web Development Session notes
+# Web Unleashed 2016
+## The Front-end Developer Event
+
+http://fitc.ca/event/webu16/
+
+Session notes
