@@ -1,16 +1,9 @@
 A Day in the Life of a Developer Bo$$
+-------------------------------------
+*With Wes Bos, Robyn Larsen, Haris Mahmood
+Moderated by Dyanna Zaidman*
 
-With
-
-Wes Bos 
-
-Robyn Larsen
-
-Haris Mahmood
-
-Moderated by Dyanna Zaidman
-
-*Note: Speakers have been paraphrased
+Note: Speakers have been paraphrased
 
 **What do you think is the biggest misconception about developers?**
 
