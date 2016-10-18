@@ -1,6 +1,6 @@
-Service Workers for Everyone!
-
-With Ryan Christiani
+**Service Workers for Everyone!**
+-----------------------------------------------------------
+*With Ryan Christiani*
 
 At hackerYou (where Ryan works) they wanted to create an offline experience for their students that would allow them to review their class notes in spotty internet situations, e.g. on the train and subway. In fact, there’s a lot of content on the web that should simply be accessible offline and service workers are a way to do this. Before service workers we could use app cache, but that’s starting to be removed from browsers and service workers are taking over. Service workers are a new API in the browser that sits between your site and the network (the cloud) and is part of the progressive web app (PWA) technology stack. In fact, it is probably the key facet of PWAs. The goal of PWAs is to get close to the speed of native apps, have push notifications, and the ability to add the app to the home screen. Google has really been promoting the idea this year.
 
