@@ -1,6 +1,6 @@
-Thinking Outside the Little Black Box
-
-Jonathan Stark
+**Thinking Outside the Little Black Box**
+-----------------------------------------------------------
+*Jonathan Stark*
 
 In 2007, the iPhone was released. Apple "reinvents" the phone. The iPhone has infiltrated every aspect of our lives and has revolutionized the computing landscape. By 2015, the smartphone industry will dwarf personal computers. 4 billion people are buying smartphones every 2 years vs. 1.6 billion buying PCs every 5 years (Gartner, Apple, Google, a16z)
 
