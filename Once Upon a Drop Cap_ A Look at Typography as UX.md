@@ -1,6 +1,6 @@
-Once Upon a Drop Cap: A Look at Typography as UX
-
-With Jason Pamental
+**Once Upon a Drop Cap: A Look at Typography as UX**
+-----------------------------------------------------------
+*With Jason Pamental*
 
 "When words were the experience and letters were your voice"
 
