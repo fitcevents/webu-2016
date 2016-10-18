@@ -1,6 +1,6 @@
-The Humans Are Dead, We Are All Bots Now
-
-With Tommy Lewis
+**The Humans Are Dead, We Are All Bots Now**
+-----------------------------------------------------------
+*With Tommy Lewis*
 
 First things first, Microsoft has promised not to bring back Clippy!
 
@@ -70,3 +70,6 @@ When you go to actually build a bot, you have many options. Microsoft offers the
 
 [https://www.youtube.com/watch?v=R2mC-NUAmMk](https://www.youtube.com/watch?v=R2mC-NUAmMk)
 
+@tommylee
+
+tholewis@microsoft.com
