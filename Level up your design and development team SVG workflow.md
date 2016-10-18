@@ -1,6 +1,6 @@
 **Level up your design and development team SVG workflow**
-
-With Robyn Larsen
+-----------------------------------------------------------
+*With Robyn Larsen*
 
 Scalable vector graphics (SVGs) are at the intersection of the design and development phases of front-end web development. SVGs hand control over creating visual assets to the developer, allowing them to rely less on designers to create multiple PNG assets. Furthermore, with SVG filters you can create impressive filter effects and animate them using[ SMIL](https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL). Note that Chrome had removed support for SMIL in Chrome 45, but put it back because the "web platform was not ready".
 
@@ -8,19 +8,19 @@ Before you start working with SVGs you need to decide how you want to interact w
 
 First, you'll want to place your asset on its own artboard as the artboard gets translated into the viewBox. Next, select the layers you want and use the Sketch flatten command to merge the layers. Merging will remove transforms, properties Sketch otherwise applies to SVGs based on their relative position in the infinite canvas. Before merging the SVG will have a lot of nested tags, which reflect how we tend to work in Sketch as designers. You’ll want to name your layer(s) in Sketch as this will be transferred to the SVG as ID(s). Naming conventions such as  icon- or logo- prefixes for SVG icons and logo IDs, and svg- for class names can help identify SVG layers in your CSS and JS. The SVG markup initially exported from Sketch is really messy. To get a better, cleaner version of the SVG (only if you’re exporting from Sketch) you can run this command from terminal:
 
-$ defaults write com.bohemiancoding.sketch3 exportCompactSVG -bool yes
+    $ defaults write com.bohemiancoding.sketch3 exportCompactSVG -bool yes
 
 (See[ article](https://robots.thoughtbot.com/organized-workflow-for-svg) by Steve Harley, "A more efficient and organized workflow for SVGs" for more information.)
 
 Optimize further with the[ SVGO](https://github.com/svg/svgo) NodeJS tool:
 
-$ npm install -g svgo
-
-$ svgo --pretty folder/
-
-$ svgo --pretty file.svg
-
-$ svgo --pretty file.svg file.min.svg
+    $ npm install -g svgo
+    
+    $ svgo --pretty folder/
+    
+    $ svgo --pretty file.svg
+    
+    $ svgo --pretty file.svg file.min.svg
 
 There are a few other addition changes you may need to do by hand. Remove the width and height attributes from the SVG, then in the CSS apply a max-width of 100% to it since you always want the vector graphics to scale to the size of the parent. We no longer have to worry about declaring the SVG namespace with xmlns attribute anymore (since SVG 2.0 landed on Sep. 15) for inline SVGs so these can be removed as well. The most important pieces of the SVG are the paths because that’s what tells the computer what the shape looks like (you probably don’t want to touch these).
 
