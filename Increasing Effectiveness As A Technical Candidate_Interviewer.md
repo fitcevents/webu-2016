@@ -1,6 +1,6 @@
-Increasing Effectiveness as a Technical Candidate/Interviewer
-
-Panel with Scott Biggart, Haris Mahmood, Stacey Mulcahy and Kyle Simpson
+**Increasing Effectiveness as a Technical Candidate/Interviewer**
+-----------------------------------------------------------
+*Panel with Scott Biggart, Haris Mahmood, Stacey Mulcahy and moderated by Kyle Simpson*
 
 *The starting point for this discussion is the premise that technical hiring is broken from the top down.*
 
