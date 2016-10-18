@@ -1,6 +1,6 @@
-What Pokemon Go and Smart Kitchens Taught Us About Design
-
-With Ron Edelen
+**What Pokemon Go and Smart Kitchens Taught Us About Design**
+-----------------------------------------------------------
+*With Ron Edelen*
 
 Ron is looking at how non-standard platforms are changing development. Some current design trends driven by mobile include the use of motion and stacking as UI techniques to make better use of the screen real estate. Also, lots of micro interactions and scrolling rather than tap & load experiences.
 
