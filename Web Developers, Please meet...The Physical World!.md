@@ -1,6 +1,6 @@
-Web Developers, Please meet...The Physical World!
-
-With Jean-Philippe Côté
+**Web Developers, Please meet...The Physical World!**
+-----------------------------------------------------------
+*With Jean-Philippe Côté*
 
 Even though HTML, CSS and JS were super basic back in the day, Jean still remembers the feeling of creating something with just a bit of code. The excitement faded after time as web development became more of a business, but in the past couple years JS – that clunky old language – gained a life of its own. Jean realized that the language could be used to not only to push pixels, but also real life objects. Jean’s goal is to demonstrate that we can use the skills we already have to interact with the analog world.
 
