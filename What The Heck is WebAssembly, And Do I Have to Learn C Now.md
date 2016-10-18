@@ -1,6 +1,6 @@
-What The Heck is WebAssembly, And Do I Have to Learn C Now?
-
-With Dan Callahan
+**What The Heck is WebAssembly, And Do I Have to Learn C Now?**
+-----------------------------------------------------------
+*With Dan Callahan*
 
 Link to slides, demos and related materials:
 
