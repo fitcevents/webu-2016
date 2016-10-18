@@ -1,6 +1,6 @@
-Friendly Ghost Stories: Using CasperJS to Automate the Web
-
-With Engin Arslan
+**Friendly Ghost Stories: Using CasperJS to Automate the Web**
+-----------------------------------------------------------
+*With Engin Arslan*
 
 [http://enginarslan.com](http://enginarslan.com)
 
