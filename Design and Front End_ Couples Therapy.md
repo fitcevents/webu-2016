@@ -1,8 +1,6 @@
 Design and Front End: Couples Therapy
-
-With
-
-Liam Oscar Thurston 
+-------------------------------------
+*With Liam Oscar Thurston* 
 
 At the foundation of any successful business are considerate and intentional relationships. They take understanding, compromise, listening, patience and consideration. In order to understand and empathize with others you need to start listening to what things people say… Relationships are work. But they’re going to be the most rewarding thing you could ever do or have in your work (and life).
 
