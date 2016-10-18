@@ -1,6 +1,6 @@
-Prototyping for Speed and Scale
-
-With Carl Sziebert
+**Prototyping for Speed and Scale**
+-----------------------------------------------------------
+*With Carl Sziebert*
 
 Prototypes tell stories about the future. By leveraging a prototype we can paint a complete picture about how users engage with product. Prototypes are key when creating things that have never been done before. The reason we prototype is to test assumptions. So what really is a prototype? It's an early sample built to test a concept or process. It’s in a crude in form and should not have all the features of the finished product. Most importantly, it is a thing to be learned from. Prototypes help eliminate the subjectivity of the design review process and we can use them to get design consensus. With prototypes you can build "an enthusiastic compromise". By gathering feedback you can focus on the most important elements of the product and get quantitative data to aid the decision making process. This helps you avoid politics based decisions.
 
