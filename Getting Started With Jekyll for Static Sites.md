@@ -1,4 +1,4 @@
-**Getting Started With Getting Started With Jekyll for Static Sites**
+**Getting Started With Jekyll for Static Sites**
 -----------------------------------------------------------
 *With Brian Rinaldi*
 
