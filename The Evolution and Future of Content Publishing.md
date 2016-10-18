@@ -1,6 +1,6 @@
 **The Evolution and Future of Content Publishing**
-
-**With Haris Mahmood**
+-----------------------------------------------------------
+*With Haris Mahmood*
 
 **The Beginning**
 
