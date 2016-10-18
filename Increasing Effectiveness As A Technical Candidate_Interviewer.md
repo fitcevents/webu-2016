@@ -2,7 +2,9 @@
 -----------------------------------------------------------
 *Panel with Scott Biggart, Haris Mahmood, Stacey Mulcahy and moderated by Kyle Simpson*
 
-*The starting point for this discussion is the premise that technical hiring is broken from the top down.*
+Note: the speakers have been paraphrased.
+
+**Kyle:** The starting point for this discussion is the premise that technical hiring is broken from the top down.
 
 **Haris:** Early stage screening processes fail when you are just matching buzzwords. However, looking at things like the number of years of experience can be highly relevant when hiring for senior dev roles.
 
