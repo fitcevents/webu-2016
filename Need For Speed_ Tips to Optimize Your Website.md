@@ -1,6 +1,6 @@
 **Need For Speed: Tips to Optimize Your Website**
-
-**With Anne Thomas**
+-----------------------------------------------------------
+*With Anne Thomas*
 
 People don’t often think about site optimization, but it is crucial to keeping visitors on your site.
 
