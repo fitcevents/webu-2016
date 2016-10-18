@@ -1,6 +1,6 @@
 **Performance: Beyond your Portfolio**
-
-**With Luke Dewitt**
+-----------------------------------------------------------
+*With Luke Dewitt*
 
 **The RAIL Model** - Google’s yardstick for performance: Response, Animation, Idle, Load
 
