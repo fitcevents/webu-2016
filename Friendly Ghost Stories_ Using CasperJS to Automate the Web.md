@@ -42,21 +42,21 @@ page context = the code of the page being navigated
 
 Some code examples:
 
-`this.capture(‘url);
-
-title = this.evaluate(func() {
-
-  return document.title
-
-}`
+    this.capture(‘url);
+    
+    title = this.evaluate(func() {
+    
+      return document.title
+    
+    }
 
 This will get the document title from the page context - using this approach you can only return jsonable data from the page context.
 
-`casper.on(remote.message, function() {
-
-  console.log("remote message: “ + msg);
-
-}`
+    casper.on(remote.message, function() {
+    
+      console.log("remote message: “ + msg);
+    
+    }
 
 This will let you return console logs from the page context.
 
