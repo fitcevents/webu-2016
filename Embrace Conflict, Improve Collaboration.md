@@ -1,4 +1,6 @@
-Embrace Conflict, Improve Collaboration with Bermon Painter
+**Embrace Conflict, Improve Collaboration**
+-----------------------------------------------------------
+*With Bermon Painter*
 
 Our lizard brains can cause us problems. Lizard brains are our primitive reactions taking over. They will always try to prevent us from trying things that are new or risky in order to satisfy our need to stay safe. Our lizard brains will sabotage everything we try to satisfy the needs higher up in[ Maslow’s hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). Often our role [as web developers and project managers] is to mediate communication between stakeholders, or what will happen is that we come away from a conversation believing the other person understands, only to have something that does not meet expectation built. We need to deal with conflict, instead of avoiding it, which is our lizard brain reaction.
 
