@@ -1,6 +1,6 @@
-Getting Started With Getting Started With Jekyll for Static Sites
-
-With Brian Rinaldi
+**Getting Started With Getting Started With Jekyll for Static Sites**
+-----------------------------------------------------------
+*With Brian Rinaldi*
 
 Brian has published the free [Static Site Generators](http://www.oreilly.com/web-platform/free/static-site-generators.csp) for O’Reilly and is currently co-authoring a book, "Working With Static Site Generators" for O’Reilly with Ray Camden.
 
