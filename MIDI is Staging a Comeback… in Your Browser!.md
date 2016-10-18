@@ -1,6 +1,6 @@
-MIDI is Staging a Comeback… in Your Browser!
-
-With Jean-Philippe Côté
+**MIDI is Staging a Comeback… in Your Browser!**
+-----------------------------------------------------------
+*With Jean-Philippe Côté*
 
 The MIDI format has been around for over 30 years. It’s in all kinds of hardware and software. It essentially is a format for sending messages that describe a note of music. There are variations, such as Show Control, that can be used to control AV. There are currently proposals in development for MIDI HD/2.0 and MIDI over Bluetooth.
 
