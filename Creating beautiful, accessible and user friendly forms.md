@@ -1,6 +1,6 @@
 **Creating beautiful, accessible and user friendly forms**
-
-With Clarissa Peterson
+----------------------------------------------------------
+*With Clarissa Peterson*
 
 Forms are one of the key ways users interact with websites. Making sure your forms work well will have a big impact on your UX. Simplest forms are the best not just because they’re easier to make, but because they are easier for your users to complete. You want to make completing the form as easy as possible, and the outcome of sending the form as clear as possible. (For a good example, see Freshbooks forms.) Extra questions on a form mean more data you need to clean up and deal with. If you ask extra questions (that you don’t necessarily need to complete the task, e.g. gender) you need to first build trust with your users so that they feel comfortable providing that information. For example, Facebook tells you why they’re asking for your birthday on their sign-up form (even though it’s a lie, it’s just for marketing). You want to build up your forms slowly, e.g. Twitter asks you for your name and email first, and only in the next step once you’re already somewhat invested asks you to pick a username, which is a more difficult decision.
 
