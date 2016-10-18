@@ -1,6 +1,6 @@
 **Front-end developers can make games too!**
-
-**With Alicia Sedlock**
+-----------------------------------------------------------
+*With Alicia Sedlock*
 
 Alicia is web developer in Boston working at [Society of Grownups](https://www.societyofgrownups.com/), who doesn’t understand why people hate CSS. She was exposed to games by Newgrounds, which was a popular hub for Flash animations and games. There was a game called, "[The Binding of Isaac](https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game))", that started at a game jam and was continued afterward. Three months later the team had a full Flash game released on Steam, and a demo version on Newgrounds. The game became extremely popular. It was an example of the power that Flash had for developers back in the day.  Alicia realized then that the web was meant for more that just the sharing of documents – it was an artistic medium and capable of so much creativity. And then Flash died. (Or was murdered depending on who you ask.) Other stuff came up, like video, but there were no niche for memorable, creative things again for a while...
 
