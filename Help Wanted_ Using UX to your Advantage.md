@@ -1,6 +1,6 @@
-Help Wanted: Using UX to your Advantage
-
-With Mariah Hay
+**Help Wanted: Using UX to your Advantage**
+-----------------------------------------------------------
+*With Mariah Hay*
 
 **The Difference Between UX and UI**
 
