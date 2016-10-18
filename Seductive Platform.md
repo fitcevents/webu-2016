@@ -1,6 +1,6 @@
-Seductive Platform
-
-With Scott Biggart
+**Seductive Platform**
+-----------------------------------------------------------
+*With Scott Biggart*
 
 Scott works at Uber on the UberRush service.
 
