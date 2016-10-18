@@ -1,6 +1,6 @@
 **Stakeholder Experience Design**
-
-**With Mike Costanzo**
+-----------------------------------------------------------
+*With Mike Costanzo*
 
 A look at Rangle.io’s project process. The goal is to guide your clients to experiences that make them feel grounded and in control.
 
