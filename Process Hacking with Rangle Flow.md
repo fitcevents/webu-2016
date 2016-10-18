@@ -1,6 +1,6 @@
-Process Hacking with Rangle Flow
-
-Yuri Takhteyev
+**Process Hacking with Rangle Flow**
+-----------------------------------------------------------
+*Yuri Takhteyev*
 
 # Why Agile?
 
