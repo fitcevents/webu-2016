@@ -1,6 +1,6 @@
-Real World React Debugging
-
-With Jared Forsyth
+**Real World React Debugging**
+-----------------------------------------------------------
+*With Jared Forsyth*
 
 [Khan Academy](https://www.khanacademy.org/) was the first production use of React with something like 15,000 components – debugging became very important very quickly. The job of debugging tools is to shed light on the computer black box. Some ways to fix bugs take more effort than others and you need to judge if they are worth the investment based on the size of the codebase and team. 
 
